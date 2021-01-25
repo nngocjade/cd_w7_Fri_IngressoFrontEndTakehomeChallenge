@@ -4,26 +4,26 @@ Created with love by: Ngoc-Jade Nguyen
 
 Take home challenge for frontend developers and UI/UX applicants
 
-Quick Start 
+## Quick Start 
 
-# Install dependencies for server
+#### Install dependencies for server
 npm install
 
-# Install dependencies for client
+#### Install dependencies for client
 npm run client-install
 
-# Run the client & server with concurrently
+#### Run the client & server with concurrently
 npm run dev
 
-# Run the Express server only
+#### Run the Express server only
 npm run server
 
-# Run the React client only
+#### Run the React client only
 npm run client
 
-# Server runs on http://localhost:5656 client on http://localhost:3000
+#### Server runs on http://localhost:5656 client on http://localhost:3000
 
-##-----------------(PROJECT INSTRUCTION && TASKS------------------------
+----------------------------------------------------------------------------------------
 
 ## Project Instructions
 
